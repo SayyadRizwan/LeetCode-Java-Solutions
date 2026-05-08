@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/SayyadRizwan/LeetCode/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/SayyadRizwan/LeetCode/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -19,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SayyadRizwan/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
