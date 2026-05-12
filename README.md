@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/SayyadRizwan/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SayyadRizwan/LeetCode/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/SayyadRizwan/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [1200-minimum-absolute-difference](https://github.com/SayyadRizwan/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SayyadRizwan/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SayyadRizwan/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SayyadRizwan/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SayyadRizwan/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SayyadRizwan/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0268-missing-number) |
+| [1200-minimum-absolute-difference](https://github.com/SayyadRizwan/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SayyadRizwan/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/SayyadRizwan/LeetCode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SayyadRizwan/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
