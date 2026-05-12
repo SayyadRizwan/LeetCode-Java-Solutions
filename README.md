@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SayyadRizwan/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SayyadRizwan/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SayyadRizwan/LeetCode/tree/master/0035-search-insert-position) |
+| [0073-set-matrix-zeroes](https://github.com/SayyadRizwan/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SayyadRizwan/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/SayyadRizwan/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0136-single-number) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SayyadRizwan/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/SayyadRizwan/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/SayyadRizwan/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SayyadRizwan/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/SayyadRizwan/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
