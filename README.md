@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SayyadRizwan/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3668-restore-finishing-order](https://github.com/SayyadRizwan/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/SayyadRizwan/LeetCode/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SayyadRizwan/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/SayyadRizwan/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SayyadRizwan/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3697-compute-decimal-representation](https://github.com/SayyadRizwan/LeetCode/tree/master/3697-compute-decimal-representation) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0268-missing-number) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SayyadRizwan/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/SayyadRizwan/LeetCode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SayyadRizwan/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/SayyadRizwan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [3668-restore-finishing-order](https://github.com/SayyadRizwan/LeetCode/tree/master/3668-restore-finishing-order) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SayyadRizwan/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3692-majority-frequency-characters](https://github.com/SayyadRizwan/LeetCode/tree/master/3692-majority-frequency-characters) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/SayyadRizwan/LeetCode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Bit Manipulation
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SayyadRizwan/LeetCode/tree/master/0011-container-with-most-water) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/SayyadRizwan/LeetCode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SayyadRizwan/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SayyadRizwan/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Number Theory
 |  |
