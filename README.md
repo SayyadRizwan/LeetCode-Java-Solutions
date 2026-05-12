@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/SayyadRizwan/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3697-compute-decimal-representation](https://github.com/SayyadRizwan/LeetCode/tree/master/3697-compute-decimal-representation) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/SayyadRizwan/LeetCode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3799-word-squares-ii](https://github.com/SayyadRizwan/LeetCode/tree/master/3799-word-squares-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SayyadRizwan/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/SayyadRizwan/LeetCode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SayyadRizwan/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3799-word-squares-ii](https://github.com/SayyadRizwan/LeetCode/tree/master/3799-word-squares-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3692-majority-frequency-characters](https://github.com/SayyadRizwan/LeetCode/tree/master/3692-majority-frequency-characters) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/SayyadRizwan/LeetCode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3798-largest-even-number](https://github.com/SayyadRizwan/LeetCode/tree/master/3798-largest-even-number) |
+| [3799-word-squares-ii](https://github.com/SayyadRizwan/LeetCode/tree/master/3799-word-squares-ii) |
 ## Trie
 |  |
 | ------- |
@@ -263,4 +266,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/SayyadRizwan/LeetCode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3799-word-squares-ii](https://github.com/SayyadRizwan/LeetCode/tree/master/3799-word-squares-ii) |
+## Backtracking
+|  |
+| ------- |
+| [3799-word-squares-ii](https://github.com/SayyadRizwan/LeetCode/tree/master/3799-word-squares-ii) |
 <!---LeetCode Topics End-->
