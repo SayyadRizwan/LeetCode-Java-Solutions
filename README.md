@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/SayyadRizwan/LeetCode/tree/master/1922-count-good-numbers) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/SayyadRizwan/LeetCode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SayyadRizwan/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3697-compute-decimal-representation](https://github.com/SayyadRizwan/LeetCode/tree/master/3697-compute-decimal-representation) |
 ## Dynamic Programming
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SayyadRizwan/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SayyadRizwan/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SayyadRizwan/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/SayyadRizwan/LeetCode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3637-trionic-array-i](https://github.com/SayyadRizwan/LeetCode/tree/master/3637-trionic-array-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SayyadRizwan/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3668-restore-finishing-order](https://github.com/SayyadRizwan/LeetCode/tree/master/3668-restore-finishing-order) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/SayyadRizwan/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0268-missing-number) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SayyadRizwan/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/SayyadRizwan/LeetCode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Two Pointers
 |  |
 | ------- |
@@ -193,9 +196,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/SayyadRizwan/LeetCode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SayyadRizwan/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SayyadRizwan/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Game Theory
+|  |
+| ------- |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/SayyadRizwan/LeetCode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 <!---LeetCode Topics End-->
