@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/SayyadRizwan/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SayyadRizwan/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3697-compute-decimal-representation](https://github.com/SayyadRizwan/LeetCode/tree/master/3697-compute-decimal-representation) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/SayyadRizwan/LeetCode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Binary Search
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/SayyadRizwan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [3668-restore-finishing-order](https://github.com/SayyadRizwan/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3692-majority-frequency-characters](https://github.com/SayyadRizwan/LeetCode/tree/master/3692-majority-frequency-characters) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/SayyadRizwan/LeetCode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/SayyadRizwan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SayyadRizwan/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [3692-majority-frequency-characters](https://github.com/SayyadRizwan/LeetCode/tree/master/3692-majority-frequency-characters) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/SayyadRizwan/LeetCode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Trie
 |  |
 | ------- |
@@ -238,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SayyadRizwan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/SayyadRizwan/LeetCode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 <!---LeetCode Topics End-->
