@@ -31,5 +31,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/SayyadRizwan/LeetCode/tree/master/0035-search-insert-position) |
 | [0746-min-cost-climbing-stairs](https://github.com/SayyadRizwan/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/SayyadRizwan/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
