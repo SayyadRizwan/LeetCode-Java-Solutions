@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SayyadRizwan/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/SayyadRizwan/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/SayyadRizwan/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/SayyadRizwan/LeetCode/tree/master/0020-valid-parentheses) |
 | [3692-majority-frequency-characters](https://github.com/SayyadRizwan/LeetCode/tree/master/3692-majority-frequency-characters) |
 ## Trie
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SayyadRizwan/LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/SayyadRizwan/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/SayyadRizwan/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
