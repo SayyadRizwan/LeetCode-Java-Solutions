@@ -33,8 +33,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/SayyadRizwan/LeetCode/tree/master/0035-search-insert-position) |
 | [0746-min-cost-climbing-stairs](https://github.com/SayyadRizwan/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SayyadRizwan/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SayyadRizwan/LeetCode/tree/master/0035-search-insert-position) |
+## Sliding Window
+|  |
+| ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SayyadRizwan/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Sorting
+|  |
+| ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SayyadRizwan/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
