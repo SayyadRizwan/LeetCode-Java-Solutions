@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/SayyadRizwan/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [3692-majority-frequency-characters](https://github.com/SayyadRizwan/LeetCode/tree/master/3692-majority-frequency-characters) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/SayyadRizwan/LeetCode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3798-largest-even-number](https://github.com/SayyadRizwan/LeetCode/tree/master/3798-largest-even-number) |
 ## Trie
 |  |
 | ------- |
