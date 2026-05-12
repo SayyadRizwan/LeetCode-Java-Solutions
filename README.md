@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/SayyadRizwan/LeetCode/tree/master/1922-count-good-numbers) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SayyadRizwan/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3697-compute-decimal-representation](https://github.com/SayyadRizwan/LeetCode/tree/master/3697-compute-decimal-representation) |
 ## Dynamic Programming
 |  |
@@ -178,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3689-maximum-total-subarray-value-i](https://github.com/SayyadRizwan/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SayyadRizwan/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
