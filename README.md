@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/SayyadRizwan/LeetCode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3798-largest-even-number](https://github.com/SayyadRizwan/LeetCode/tree/master/3798-largest-even-number) |
 | [3799-word-squares-ii](https://github.com/SayyadRizwan/LeetCode/tree/master/3799-word-squares-ii) |
+| [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/SayyadRizwan/LeetCode/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 ## Trie
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/SayyadRizwan/LeetCode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SayyadRizwan/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SayyadRizwan/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/SayyadRizwan/LeetCode/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 ## Number Theory
 |  |
 | ------- |
