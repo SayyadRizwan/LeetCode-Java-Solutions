@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/SayyadRizwan/LeetCode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SayyadRizwan/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3697-compute-decimal-representation](https://github.com/SayyadRizwan/LeetCode/tree/master/3697-compute-decimal-representation) |
+| [3783-mirror-distance-of-an-integer](https://github.com/SayyadRizwan/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
