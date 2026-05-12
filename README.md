@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SayyadRizwan/LeetCode/tree/master/0189-rotate-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/SayyadRizwan/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SayyadRizwan/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/SayyadRizwan/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,4 +57,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SayyadRizwan/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/SayyadRizwan/LeetCode/tree/master/0189-rotate-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/SayyadRizwan/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/SayyadRizwan/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
