@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SayyadRizwan/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SayyadRizwan/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/SayyadRizwan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [3668-restore-finishing-order](https://github.com/SayyadRizwan/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3692-majority-frequency-characters](https://github.com/SayyadRizwan/LeetCode/tree/master/3692-majority-frequency-characters) |
 ## Bit Manipulation
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/SayyadRizwan/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SayyadRizwan/LeetCode/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/SayyadRizwan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [3692-majority-frequency-characters](https://github.com/SayyadRizwan/LeetCode/tree/master/3692-majority-frequency-characters) |
 ## String
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SayyadRizwan/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/SayyadRizwan/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/SayyadRizwan/LeetCode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/SayyadRizwan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SayyadRizwan/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [3692-majority-frequency-characters](https://github.com/SayyadRizwan/LeetCode/tree/master/3692-majority-frequency-characters) |
 ## Trie
@@ -230,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SayyadRizwan/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SayyadRizwan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
