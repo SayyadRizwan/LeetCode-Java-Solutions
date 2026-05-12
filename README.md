@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SayyadRizwan/LeetCode/tree/master/0035-search-insert-position) |
 | [0118-pascals-triangle](https://github.com/SayyadRizwan/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/SayyadRizwan/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/SayyadRizwan/LeetCode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/SayyadRizwan/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0268-missing-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SayyadRizwan/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SayyadRizwan/LeetCode/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/SayyadRizwan/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/SayyadRizwan/LeetCode/tree/master/0704-binary-search) |
 ## Sliding Window
