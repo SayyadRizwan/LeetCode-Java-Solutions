@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SayyadRizwan/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SayyadRizwan/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SayyadRizwan/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0645-set-mismatch](https://github.com/SayyadRizwan/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/SayyadRizwan/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/SayyadRizwan/LeetCode/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/SayyadRizwan/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SayyadRizwan/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SayyadRizwan/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/SayyadRizwan/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/SayyadRizwan/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1200-minimum-absolute-difference](https://github.com/SayyadRizwan/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SayyadRizwan/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/SayyadRizwan/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/SayyadRizwan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0645-set-mismatch](https://github.com/SayyadRizwan/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [3668-restore-finishing-order](https://github.com/SayyadRizwan/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SayyadRizwan/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3692-majority-frequency-characters](https://github.com/SayyadRizwan/LeetCode/tree/master/3692-majority-frequency-characters) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0136-single-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/SayyadRizwan/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/SayyadRizwan/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Counting
 | Problem Name | Difficulty |
