@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/SayyadRizwan/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1200-minimum-absolute-difference](https://github.com/SayyadRizwan/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SayyadRizwan/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/SayyadRizwan/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SayyadRizwan/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SayyadRizwan/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/SayyadRizwan/LeetCode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/SayyadRizwan/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SayyadRizwan/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SayyadRizwan/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/SayyadRizwan/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
