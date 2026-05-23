@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SayyadRizwan/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0509-fibonacci-number) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/SayyadRizwan/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1922-count-good-numbers](https://github.com/SayyadRizwan/LeetCode/tree/master/1922-count-good-numbers) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/SayyadRizwan/LeetCode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SayyadRizwan/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/SayyadRizwan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SayyadRizwan/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/SayyadRizwan/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/SayyadRizwan/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/SayyadRizwan/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3692-majority-frequency-characters](https://github.com/SayyadRizwan/LeetCode/tree/master/3692-majority-frequency-characters) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/SayyadRizwan/LeetCode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
