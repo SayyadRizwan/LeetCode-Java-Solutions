@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/SayyadRizwan/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/SayyadRizwan/LeetCode/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/SayyadRizwan/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0962-maximum-width-ramp](https://github.com/SayyadRizwan/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [1200-minimum-absolute-difference](https://github.com/SayyadRizwan/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1470-shuffle-the-array](https://github.com/SayyadRizwan/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SayyadRizwan/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/SayyadRizwan/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SayyadRizwan/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SayyadRizwan/LeetCode/tree/master/0344-reverse-string) |
+| [0962-maximum-width-ramp](https://github.com/SayyadRizwan/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [1768-merge-strings-alternately](https://github.com/SayyadRizwan/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SayyadRizwan/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SayyadRizwan/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SayyadRizwan/LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/SayyadRizwan/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/SayyadRizwan/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0962-maximum-width-ramp](https://github.com/SayyadRizwan/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [1021-remove-outermost-parentheses](https://github.com/SayyadRizwan/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Merge Sort
 |  |
@@ -295,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/SayyadRizwan/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/SayyadRizwan/LeetCode/tree/master/0962-maximum-width-ramp) |
 <!---LeetCode Topics End-->
