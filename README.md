@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SayyadRizwan/LeetCode/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/SayyadRizwan/LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0143-reorder-list](https://github.com/SayyadRizwan/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/SayyadRizwan/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SayyadRizwan/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SayyadRizwan/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SayyadRizwan/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/SayyadRizwan/LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/SayyadRizwan/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/SayyadRizwan/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/SayyadRizwan/LeetCode/tree/master/0143-reorder-list) |
