@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/SayyadRizwan/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SayyadRizwan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/SayyadRizwan/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0416-partition-equal-subset-sum](https://github.com/SayyadRizwan/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SayyadRizwan/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/SayyadRizwan/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/SayyadRizwan/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SayyadRizwan/LeetCode/tree/master/0283-move-zeroes) |
+| [0416-partition-equal-subset-sum](https://github.com/SayyadRizwan/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/SayyadRizwan/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SayyadRizwan/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/SayyadRizwan/LeetCode/tree/main/0645-set-mismatch/) | Easy |
