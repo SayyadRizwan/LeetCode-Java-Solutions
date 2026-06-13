@@ -10,53 +10,51 @@
  */
 class Solution {
     public ListNode rotateRight(ListNode head, int k) {
-        
-        if(head==null) return null;
-      //size checking
-        ListNode temp=head;
-        int count=0;
-        while(temp!=null){
-        count+=1;
-            temp=temp.next;
-        }
-        k=k;
-         k=k%count;
+        ListNode curr = head;
+        int count = 0;
+        if(head == null || head.next ==null)return head;
        
-           if(head==null||head.next==null||k==0) return head;
-        
-        temp=head;
-        ListNode newHead1=new ListNode(0);
-        ListNode LL1=newHead1;
-        ListNode newHead2=new ListNode(1);
-        ListNode LL2=newHead2;
-        int index=0;
-        while(temp!=null){
-            if(index<count-k){
-                LL2.next=temp;
-                LL2=LL2.next;
-                
-            }
-            else{
-                LL1.next=temp;
-                LL1=LL1.next;
-                
-            }
-            temp=temp.next;
-            index++;
-            
+        while(curr!=null){
+        count++;
+        curr= curr.next;
         }
-       newHead1= newHead1.next;
-        newHead2= newHead2.next;
-        LL1.next=newHead2;
-        LL2.next=null;
-        return newHead1;
-        
-        
-        
-        
-        
-        
+        k = k%count;
+         if(k==0)return head;
+        curr= head;
+        int idx = 1;
+        ListNode front = head;
+        ListNode temp = head;
+        while(curr!=null){
+           
+            if(idx==count - k){
+                
+                 front = curr;
+                 curr=curr.next;
+                 front.next = null;
+                 head = curr;
+                 idx++;
+
+                 }
+                 else{  
+                 idx++;
+
+                    if(curr.next ==null ){
+                        curr.next = temp;
+                        break;
+                    }
+
+
+                 curr= curr.next;}
+                 
+
+
+
+
         }
-        
-        
-    }
+        return head;
+
+
+
+
+  }
+}
