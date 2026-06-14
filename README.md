@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/SayyadRizwan/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/SayyadRizwan/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/SayyadRizwan/LeetCode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/SayyadRizwan/LeetCode/tree/master/0118-pascals-triangle) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/SayyadRizwan/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SayyadRizwan/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SayyadRizwan/LeetCode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/SayyadRizwan/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/SayyadRizwan/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/SayyadRizwan/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/SayyadRizwan/LeetCode/tree/main/0066-plus-one/) | Easy |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/SayyadRizwan/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SayyadRizwan/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SayyadRizwan/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/SayyadRizwan/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/SayyadRizwan/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/SayyadRizwan/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SayyadRizwan/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SayyadRizwan/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SayyadRizwan/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/SayyadRizwan/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/SayyadRizwan/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0962-maximum-width-ramp](https://github.com/SayyadRizwan/LeetCode/tree/master/0962-maximum-width-ramp) |
@@ -315,5 +319,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/SayyadRizwan/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0962-maximum-width-ramp](https://github.com/SayyadRizwan/LeetCode/tree/master/0962-maximum-width-ramp) |
 <!---LeetCode Topics End-->
