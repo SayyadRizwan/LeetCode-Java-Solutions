@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SayyadRizwan/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0509-fibonacci-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SayyadRizwan/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/SayyadRizwan/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1922-count-good-numbers](https://github.com/SayyadRizwan/LeetCode/tree/master/1922-count-good-numbers) |
 | [2169-count-operations-to-obtain-zero](https://github.com/SayyadRizwan/LeetCode/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/SayyadRizwan/LeetCode/tree/main/0645-set-mismatch/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SayyadRizwan/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/SayyadRizwan/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Counting
 | Problem Name | Difficulty |
