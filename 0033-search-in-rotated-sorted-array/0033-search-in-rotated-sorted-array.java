@@ -1,35 +1,41 @@
 class Solution {
-    public int search(int[] nums, int target) {
-        int start = 0;
-        int end = nums.length - 1;
-        int mid = (start + (end - start)) / 2;
-        while (start <= end) {
-            
-            mid = start + (end - start) / 2;
-            if(nums[mid]==target) return mid;
 
-            //Left Half
-            if (nums[start] <= nums[mid]) {
-        
-                if (nums[start] <= target && target < nums[mid]) {
-                    
-                        end = mid-1;
-                } else {
-                        start = mid + 1;
-                    }
-                }
+    static int rotatedSearch(int[] nums , int target, int low , int high){
 
-            
-            //Right Half
-            else {
-                    if (nums[mid] < target && target <= nums[end]) {
-                    start = mid + 1;
-                } else {
-                    end = mid - 1;
-                }
-            }
-            
+
+          if(low>high){
+            return -1;
         }
-        return -1;
+        int mid  = low+(high-low)/2;
+        if(nums[mid]==target){
+            return mid;
+        }
+      
+        //left part sorted
+        if(nums[low]<=nums[mid] ){
+            if(target>=nums[low] && nums[mid]>=target){
+               return rotatedSearch(nums,target,low,mid-1);
+            }
+            else{
+                return rotatedSearch(nums,target,mid+1,high);
+            }
+        }
+        else{
+            if(target>=nums[mid] && target<=nums[high]){
+                return rotatedSearch(nums,target,mid+1,high);
+            }
+            else{
+                return rotatedSearch(nums,target,low,mid-1);
+            }
+
+        }
+       
+
+
+
+    }
+
+    public int search(int[] nums, int target) {
+        return rotatedSearch(nums,target,0,nums.length-1);
     }
 }
