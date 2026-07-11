@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0197-rising-temperature](https://github.com/SayyadRizwan/LeetCode/tree/main/0197-rising-temperature/) | Easy |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/SayyadRizwan/LeetCode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/SayyadRizwan/LeetCode/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/SayyadRizwan/LeetCode/tree/main/0584-find-customer-referee/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/SayyadRizwan/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
