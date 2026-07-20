@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/SayyadRizwan/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/SayyadRizwan/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/SayyadRizwan/LeetCode/tree/main/0090-subsets-ii/) | Medium |
+| [0113-path-sum-ii](https://github.com/SayyadRizwan/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [3799-word-squares-ii](https://github.com/SayyadRizwan/LeetCode/tree/master/3799-word-squares-ii) |
 ## String Matching
 | Problem Name | Difficulty |
@@ -367,11 +368,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/SayyadRizwan/LeetCode/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/SayyadRizwan/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/SayyadRizwan/LeetCode/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/SayyadRizwan/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -382,4 +385,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/SayyadRizwan/LeetCode/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/SayyadRizwan/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
