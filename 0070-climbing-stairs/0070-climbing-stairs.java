@@ -1,20 +1,17 @@
 class Solution {
- 
-int count(int n,int idx,int[] dp){
-    if(idx>n){
-        return 0;
-    }
-    if(dp[idx]!=0){
-        return dp[idx];
-    }
-    if(idx==n){
-        return 1;
-    }
-    return dp[idx]=count(n,idx+1,dp)+count(n,idx+2,dp);
-}
+    int wayCount(int n){
+        if(n<0)return 0;
+        if(n==0)return 1;
+        if(dp[n]!=-1)return dp[n];
+        int take = wayCount(n-1);
+        int take2 = wayCount(n-2);
+        return dp[n]=take + take2;
 
+    }
+    int[] dp;
     public int climbStairs(int n) {
-        int dp[] = new int[n+1];
-        return count(n,0,dp);
+        dp = new int[n+1];
+        Arrays.fill(dp,-1);
+        return wayCount(n);
     }
 }
