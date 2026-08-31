@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/SayyadRizwan/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/SayyadRizwan/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/SayyadRizwan/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/SayyadRizwan/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/SayyadRizwan/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/SayyadRizwan/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/SayyadRizwan/LeetCode/tree/main/0066-plus-one/) | Easy |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0015-3sum](https://github.com/SayyadRizwan/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SayyadRizwan/LeetCode/tree/main/0018-4sum/) | Medium |
+| [0049-group-anagrams](https://github.com/SayyadRizwan/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/SayyadRizwan/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SayyadRizwan/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/SayyadRizwan/LeetCode/tree/master/0148-sort-list) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SayyadRizwan/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SayyadRizwan/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/SayyadRizwan/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
+| [0049-group-anagrams](https://github.com/SayyadRizwan/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/SayyadRizwan/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/SayyadRizwan/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/SayyadRizwan/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/SayyadRizwan/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/SayyadRizwan/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SayyadRizwan/LeetCode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/SayyadRizwan/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/SayyadRizwan/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0125-valid-palindrome](https://github.com/SayyadRizwan/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/SayyadRizwan/LeetCode/tree/master/0344-reverse-string) |
