@@ -4,8 +4,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SayyadRizwan/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/SayyadRizwan/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/SayyadRizwan/LeetCode/tree/master/0048-rotate-image) |
@@ -26,8 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3697-compute-decimal-representation](https://github.com/SayyadRizwan/LeetCode/tree/master/3697-compute-decimal-representation) |
 | [3783-mirror-distance-of-an-integer](https://github.com/SayyadRizwan/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/SayyadRizwan/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/SayyadRizwan/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/SayyadRizwan/LeetCode/tree/master/0062-unique-paths) |
@@ -51,8 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/SayyadRizwan/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/SayyadRizwan/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SayyadRizwan/LeetCode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SayyadRizwan/LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0143-reorder-list](https://github.com/SayyadRizwan/LeetCode/tree/master/0143-reorder-list) |
@@ -61,17 +61,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/SayyadRizwan/LeetCode/tree/master/1922-count-good-numbers) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/SayyadRizwan/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0509-fibonacci-number) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0062-unique-paths](https://github.com/SayyadRizwan/LeetCode/tree/master/0062-unique-paths) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/SayyadRizwan/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SayyadRizwan/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/SayyadRizwan/LeetCode/tree/master/0014-longest-common-prefix) |
@@ -151,8 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/SayyadRizwan/LeetCode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3799-word-squares-ii](https://github.com/SayyadRizwan/LeetCode/tree/master/3799-word-squares-ii) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SayyadRizwan/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SayyadRizwan/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SayyadRizwan/LeetCode/tree/master/0035-search-insert-position) |
@@ -164,13 +164,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/SayyadRizwan/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SayyadRizwan/LeetCode/tree/master/0704-binary-search) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SayyadRizwan/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SayyadRizwan/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/SayyadRizwan/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SayyadRizwan/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/SayyadRizwan/LeetCode/tree/main/0049-group-anagrams/) | Medium |
@@ -191,8 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SayyadRizwan/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3799-word-squares-ii](https://github.com/SayyadRizwan/LeetCode/tree/master/3799-word-squares-ii) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/SayyadRizwan/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SayyadRizwan/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SayyadRizwan/LeetCode/tree/main/0018-4sum/) | Medium |
@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SayyadRizwan/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SayyadRizwan/LeetCode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/SayyadRizwan/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/SayyadRizwan/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/SayyadRizwan/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0962-maximum-width-ramp](https://github.com/SayyadRizwan/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [1768-merge-strings-alternately](https://github.com/SayyadRizwan/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -220,16 +221,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/SayyadRizwan/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3643-flip-square-submatrix-vertically](https://github.com/SayyadRizwan/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/SayyadRizwan/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SayyadRizwan/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/SayyadRizwan/LeetCode/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SayyadRizwan/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/SayyadRizwan/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/SayyadRizwan/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SayyadRizwan/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/SayyadRizwan/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
@@ -255,8 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3692-majority-frequency-characters](https://github.com/SayyadRizwan/LeetCode/tree/master/3692-majority-frequency-characters) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/SayyadRizwan/LeetCode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0078-subsets](https://github.com/SayyadRizwan/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/SayyadRizwan/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0136-single-number) |
@@ -267,16 +268,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-xor-for-each-query](https://github.com/SayyadRizwan/LeetCode/tree/master/1829-maximum-xor-for-each-query) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/SayyadRizwan/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/SayyadRizwan/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SayyadRizwan/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/SayyadRizwan/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/SayyadRizwan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [3692-majority-frequency-characters](https://github.com/SayyadRizwan/LeetCode/tree/master/3692-majority-frequency-characters) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SayyadRizwan/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/SayyadRizwan/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/SayyadRizwan/LeetCode/tree/master/0014-longest-common-prefix) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/SayyadRizwan/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SayyadRizwan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/SayyadRizwan/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/SayyadRizwan/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/SayyadRizwan/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/SayyadRizwan/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/SayyadRizwan/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -298,12 +300,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3799-word-squares-ii](https://github.com/SayyadRizwan/LeetCode/tree/master/3799-word-squares-ii) |
 | [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/SayyadRizwan/LeetCode/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/SayyadRizwan/LeetCode/tree/master/0014-longest-common-prefix) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SayyadRizwan/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SayyadRizwan/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SayyadRizwan/LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
@@ -319,24 +321,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/SayyadRizwan/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SayyadRizwan/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0036-valid-sudoku](https://github.com/SayyadRizwan/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/SayyadRizwan/LeetCode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/SayyadRizwan/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/SayyadRizwan/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [3643-flip-square-submatrix-vertically](https://github.com/SayyadRizwan/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/SayyadRizwan/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/SayyadRizwan/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/SayyadRizwan/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/SayyadRizwan/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SayyadRizwan/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SayyadRizwan/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SayyadRizwan/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/SayyadRizwan/LeetCode/tree/master/0143-reorder-list) |
@@ -344,45 +346,46 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/SayyadRizwan/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [1021-remove-outermost-parentheses](https://github.com/SayyadRizwan/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0148-sort-list](https://github.com/SayyadRizwan/LeetCode/tree/master/0148-sort-list) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/SayyadRizwan/LeetCode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/SayyadRizwan/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/SayyadRizwan/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0680-valid-palindrome-ii](https://github.com/SayyadRizwan/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/SayyadRizwan/LeetCode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SayyadRizwan/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SayyadRizwan/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/SayyadRizwan/LeetCode/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SayyadRizwan/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Game Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/SayyadRizwan/LeetCode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/SayyadRizwan/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/SayyadRizwan/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1829-maximum-xor-for-each-query](https://github.com/SayyadRizwan/LeetCode/tree/master/1829-maximum-xor-for-each-query) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SayyadRizwan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/SayyadRizwan/LeetCode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3799-word-squares-ii](https://github.com/SayyadRizwan/LeetCode/tree/master/3799-word-squares-ii) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0039-combination-sum](https://github.com/SayyadRizwan/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/SayyadRizwan/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/SayyadRizwan/LeetCode/tree/main/0090-subsets-ii/) | Medium |
@@ -390,17 +393,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/SayyadRizwan/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [3799-word-squares-ii](https://github.com/SayyadRizwan/LeetCode/tree/master/3799-word-squares-ii) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/SayyadRizwan/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/SayyadRizwan/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0962-maximum-width-ramp](https://github.com/SayyadRizwan/LeetCode/tree/master/0962-maximum-width-ramp) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0197-rising-temperature](https://github.com/SayyadRizwan/LeetCode/tree/main/0197-rising-temperature/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/SayyadRizwan/LeetCode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/SayyadRizwan/LeetCode/tree/main/0577-employee-bonus/) | Easy |
@@ -415,67 +418,67 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-recyclable-and-low-fat-products](https://github.com/SayyadRizwan/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1934-confirmation-rate](https://github.com/SayyadRizwan/LeetCode/tree/main/1934-confirmation-rate/) | Medium |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/SayyadRizwan/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/SayyadRizwan/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SayyadRizwan/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/SayyadRizwan/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/SayyadRizwan/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SayyadRizwan/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/SayyadRizwan/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0322-coin-change](https://github.com/SayyadRizwan/LeetCode/tree/main/0322-coin-change/) | Medium |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/SayyadRizwan/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/SayyadRizwan/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SayyadRizwan/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Knapsack Problem
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0322-coin-change](https://github.com/SayyadRizwan/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/SayyadRizwan/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
 ## Complete Knapsack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0322-coin-change](https://github.com/SayyadRizwan/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/SayyadRizwan/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
 ## Longest Common Subsequence
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/SayyadRizwan/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SayyadRizwan/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SayyadRizwan/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SayyadRizwan/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/SayyadRizwan/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Randomized
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/SayyadRizwan/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 <!---LeetCode Topics End-->
