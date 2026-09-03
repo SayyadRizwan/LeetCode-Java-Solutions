@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/SayyadRizwan/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SayyadRizwan/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SayyadRizwan/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SayyadRizwan/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/SayyadRizwan/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/SayyadRizwan/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/SayyadRizwan/LeetCode/tree/master/0118-pascals-triangle) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SayyadRizwan/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/SayyadRizwan/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/SayyadRizwan/LeetCode/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SayyadRizwan/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/SayyadRizwan/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SayyadRizwan/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SayyadRizwan/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
