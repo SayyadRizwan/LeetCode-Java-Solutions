@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/SayyadRizwan/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0454-4sum-ii](https://github.com/SayyadRizwan/LeetCode/tree/main/0454-4sum-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/SayyadRizwan/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0475-heaters](https://github.com/SayyadRizwan/LeetCode/tree/main/0475-heaters/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/SayyadRizwan/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/SayyadRizwan/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/SayyadRizwan/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SayyadRizwan/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/SayyadRizwan/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0475-heaters](https://github.com/SayyadRizwan/LeetCode/tree/main/0475-heaters/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/SayyadRizwan/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SayyadRizwan/LeetCode/tree/master/0704-binary-search) |
 ## Sliding Window
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SayyadRizwan/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/SayyadRizwan/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0475-heaters](https://github.com/SayyadRizwan/LeetCode/tree/main/0475-heaters/) | Medium |
 | [0645-set-mismatch](https://github.com/SayyadRizwan/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/SayyadRizwan/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0977-squares-of-a-sorted-array](https://github.com/SayyadRizwan/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SayyadRizwan/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SayyadRizwan/LeetCode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/SayyadRizwan/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0475-heaters](https://github.com/SayyadRizwan/LeetCode/tree/main/0475-heaters/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/SayyadRizwan/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/SayyadRizwan/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0962-maximum-width-ramp](https://github.com/SayyadRizwan/LeetCode/tree/master/0962-maximum-width-ramp) |
