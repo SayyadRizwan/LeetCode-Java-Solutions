@@ -10,33 +10,48 @@
  */
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        int rem = 0;
-        ListNode head = new ListNode(0);
-        ListNode temp = head;
-        while (l1 != null && l2 != null) {
-            temp.next = new ListNode((l1.val + l2.val + rem) % 10);
-            rem = (l1.val + l2.val+rem) / 10;
-            temp = temp.next;
-            l1 = l1.next;
+        ListNode newHead = new ListNode(5);
+        ListNode Node1 = l1;
+        ListNode Node2 = l2;
+        ListNode curr = newHead;
+        int sum = 0;
+        int carry = 0;
+        while(l1!=null && l2!=null){ 
+             sum = l1.val +l2.val + carry;
+            carry=sum/10;
+            ListNode temp = new ListNode(sum%10);
+            curr.next = temp;
+            curr = curr.next;
+            l1= l1.next;
             l2 = l2.next;
+
         }
-        while (l1 != null) {
-            temp.next = new ListNode((l1.val + rem) % 10);
-            rem = (l1.val + rem) / 10;
-            temp = temp.next;
-            l1 = l1.next;
-            // l2=l2.next;
+        while(l1!=null){
+            sum = carry+ l1.val;
+            carry = sum/10;
+              ListNode temp = new ListNode(sum%10);
+            curr.next = temp;
+            curr = curr.next;
+            l1= l1.next;
+
+            
         }
-        while (l2 != null) {
-            temp.next = new ListNode((l2.val + rem) % 10);
-            temp = temp.next;
-            rem = (l2.val + rem) / 10;
-            l2 = l2.next;
+          while(l2!=null){
+            sum = carry+ l2.val;
+            carry = sum/10;
+              ListNode temp = new ListNode(sum%10);
+            curr.next = temp;
+            curr = curr.next;
+            l2= l2.next;
+
+            
         }
-        if (rem != 0) {
-            temp.next = new ListNode(rem );
-            //  rem/=10;
+        if(carry!=0){
+            sum=carry;
+             ListNode temp = new ListNode(sum%10);
+            curr.next = temp;
+            curr = curr.next;
         }
-        return head.next;
+        return newHead.next;
     }
 }
