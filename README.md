@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/SayyadRizwan/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/SayyadRizwan/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/SayyadRizwan/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/SayyadRizwan/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0518-coin-change-ii](https://github.com/SayyadRizwan/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/SayyadRizwan/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SayyadRizwan/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/SayyadRizwan/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/SayyadRizwan/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/SayyadRizwan/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/SayyadRizwan/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/SayyadRizwan/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [1021-remove-outermost-parentheses](https://github.com/SayyadRizwan/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Merge Sort
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/SayyadRizwan/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/SayyadRizwan/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/SayyadRizwan/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/SayyadRizwan/LeetCode/tree/master/0962-maximum-width-ramp) |
 ## Database
 | Problem Name | Difficulty |
