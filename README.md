@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SayyadRizwan/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/SayyadRizwan/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/SayyadRizwan/LeetCode/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/SayyadRizwan/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0268-missing-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/SayyadRizwan/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/SayyadRizwan/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/SayyadRizwan/LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0143-reorder-list](https://github.com/SayyadRizwan/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/SayyadRizwan/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/SayyadRizwan/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/SayyadRizwan/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/SayyadRizwan/LeetCode/tree/master/1922-count-good-numbers) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SayyadRizwan/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/SayyadRizwan/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0125-valid-palindrome](https://github.com/SayyadRizwan/LeetCode/tree/master/0125-valid-palindrome) |
+| [0224-basic-calculator](https://github.com/SayyadRizwan/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0344-reverse-string](https://github.com/SayyadRizwan/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SayyadRizwan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/SayyadRizwan/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SayyadRizwan/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SayyadRizwan/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/SayyadRizwan/LeetCode/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/SayyadRizwan/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/SayyadRizwan/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/SayyadRizwan/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/SayyadRizwan/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
