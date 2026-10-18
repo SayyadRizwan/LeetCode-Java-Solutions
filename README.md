@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/SayyadRizwan/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/SayyadRizwan/LeetCode/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/SayyadRizwan/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0946-validate-stack-sequences](https://github.com/SayyadRizwan/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/SayyadRizwan/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/SayyadRizwan/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/SayyadRizwan/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0946-validate-stack-sequences](https://github.com/SayyadRizwan/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1929-concatenation-of-array](https://github.com/SayyadRizwan/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SayyadRizwan/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/SayyadRizwan/LeetCode/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/SayyadRizwan/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/SayyadRizwan/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/SayyadRizwan/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/SayyadRizwan/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/SayyadRizwan/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [1021-remove-outermost-parentheses](https://github.com/SayyadRizwan/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Merge Sort
