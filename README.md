@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/SayyadRizwan/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/SayyadRizwan/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/SayyadRizwan/LeetCode/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/SayyadRizwan/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/SayyadRizwan/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/SayyadRizwan/LeetCode/tree/main/0853-car-fleet/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/SayyadRizwan/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/SayyadRizwan/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/SayyadRizwan/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1929-concatenation-of-array](https://github.com/SayyadRizwan/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SayyadRizwan/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/SayyadRizwan/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/SayyadRizwan/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/SayyadRizwan/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0735-asteroid-collision](https://github.com/SayyadRizwan/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0853-car-fleet](https://github.com/SayyadRizwan/LeetCode/tree/main/0853-car-fleet/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/SayyadRizwan/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/SayyadRizwan/LeetCode/tree/master/0962-maximum-width-ramp) |
