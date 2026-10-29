@@ -23,12 +23,7 @@ class Solution {
         return l && r;
     }
 
-    boolean Symm(TreeNode root){
-        if(root==null)return true;
-          boolean left = check(root.left,root.right);
-        boolean right = check(root.right,root.left);
-        return  left && right;
-    }
+ 
     public boolean isSymmetric(TreeNode root) {
         return check(root.left,root.right);
     }
