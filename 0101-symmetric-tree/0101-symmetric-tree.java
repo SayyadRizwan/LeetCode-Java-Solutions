@@ -14,35 +14,22 @@
  * }
  */
 class Solution {
-    public boolean isSymmetric(TreeNode root) {
-     //   List<List<Integer>> level = new ArrayList<>();
-        Queue<TreeNode> q = new LinkedList<>();
-        if(root==null)return true;
-        q.add(root);
-        while(!q.isEmpty()){
-            int size = q.size();
-            List<Integer> level  = new ArrayList<>();
-            for(int i=0;i<size;i++){
-                TreeNode curr = q.remove();
-                if(curr==null)level.add(-111);
-else{
-    q.add(curr.left);
-             
-                q.add(curr.right);
-                level.add(curr.val);
-}
-            }
-            int st=0;
-            int end= level.size()-1;
-            while(st<end){
-                if(level.get(st)!=level.get(end)){
-                    return false;
-                }
-                st++;
-                end--;
-            }
+    boolean check(TreeNode left,TreeNode right){
+        if(left==null && right==null)return true;
+        if(left==null || right==null)return false;
+        if(left.val!=right.val)return false;
+        boolean l = check(left.left,right.right);
+        boolean r = check(left.right,right.left);
+        return l && r;
+    }
 
-        }
-        return true;
+    boolean Symm(TreeNode root){
+        if(root==null)return true;
+          boolean left = check(root.left,root.right);
+        boolean right = check(root.right,root.left);
+        return  left && right;
+    }
+    public boolean isSymmetric(TreeNode root) {
+        return check(root.left,root.right);
     }
 }
