@@ -481,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/SayyadRizwan/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/SayyadRizwan/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/SayyadRizwan/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/SayyadRizwan/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/SayyadRizwan/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/SayyadRizwan/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/SayyadRizwan/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/SayyadRizwan/LeetCode/tree/main/0322-coin-change/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/SayyadRizwan/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/SayyadRizwan/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/SayyadRizwan/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/SayyadRizwan/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Knapsack Problem
 | Problem Name | Difficulty |
