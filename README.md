@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/SayyadRizwan/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/SayyadRizwan/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SayyadRizwan/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/SayyadRizwan/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SayyadRizwan/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -561,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/SayyadRizwan/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SayyadRizwan/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -615,4 +619,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
