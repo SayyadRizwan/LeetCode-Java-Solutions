@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0872-leaf-similar-trees](https://github.com/SayyadRizwan/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0872-leaf-similar-trees](https://github.com/SayyadRizwan/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0872-leaf-similar-trees](https://github.com/SayyadRizwan/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
