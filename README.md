@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/SayyadRizwan/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/SayyadRizwan/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/SayyadRizwan/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SayyadRizwan/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/SayyadRizwan/LeetCode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/SayyadRizwan/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0268-missing-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0268-missing-number) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/SayyadRizwan/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SayyadRizwan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SayyadRizwan/LeetCode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SayyadRizwan/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/SayyadRizwan/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SayyadRizwan/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SayyadRizwan/LeetCode/tree/master/0162-find-peak-element) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/SayyadRizwan/LeetCode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SayyadRizwan/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SayyadRizwan/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SayyadRizwan/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0224-basic-calculator](https://github.com/SayyadRizwan/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/SayyadRizwan/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/SayyadRizwan/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
