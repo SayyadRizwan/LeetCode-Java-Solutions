@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/SayyadRizwan/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/SayyadRizwan/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -641,4 +643,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/SayyadRizwan/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
